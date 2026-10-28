@@ -138,6 +138,7 @@ The licence covers this implementation only. The corpora used in the paper carry
 own terms, which are set out in the article's data availability statement.
 
 ## Citation
+Please cite the code:
+Aldana-Bobadilla, E., & Molina-Villegas, A. (2026). hadamard-embeddings: Reference implementation (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23702935
 
-Please cite the article. If you refer to this implementation specifically, cite it
-through the DOI of the corresponding Zenodo release.
+Please cite the article...soon
